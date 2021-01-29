@@ -19,3 +19,6 @@ practice for android app programming
 - 3단계 : 최종 확인
 
 각 단계에서는, 사용자가 선택하는 대상에 따라 화면에 나타나는 정보가 변경됩니다.
+
+## 추가사항
+src 의 코드는 Console Programming
